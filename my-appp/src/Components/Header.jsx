@@ -1,9 +1,8 @@
 import React from 'react'
-import './Header.css'
-import Logo from '../../assets/images/icons/logo-sm.png'
-import SearchIcon from '../../assets/images/icons/search-icon-sm.png'
-import  CartIcon from '../../assets/images/icons/cart-sm.png'
-
+import Logo from '../assets/images/icons/logo-sm.png'
+import SearchIcon from '../assets/images/icons/search-icon-sm.png'
+import CartIcon from '../assets/images/icons/cart-sm.png'
+import '../App.css'
 
 function Header() {
   return (
